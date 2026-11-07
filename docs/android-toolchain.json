@@ -1,0 +1,9 @@
+{
+  "jdk": "Temurin 21.0.13+9",
+  "jdk_sha256": "d7f5d5cf865a2902b70ff549b97586a7d3f234e016f041ab447ea740c7d66d1c",
+  "command_line_tools": "16111833",
+  "command_line_tools_sha256": "0877a1d048fe4a24efe2eff536ca4223f7adeb58648bb81909d33c446918cfa8",
+  "compile_sdk": 36,
+  "build_tools": "36.0.0",
+  "gradle": "8.14.3"
+}
